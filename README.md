@@ -4,4 +4,4 @@ This is a compilation of resources which are useful for learning technologies.
 
 ## Git
 
-* [Example](https://git-scm.com/)
+* [Download Link](https://git-scm.com/downloads)
