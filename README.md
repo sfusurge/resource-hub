@@ -10,6 +10,7 @@ This is a compilation of resources which are useful for learning technologies.
 ## React
 
 * [Official Documentation](https://reactjs.org/docs/getting-started.html)
+* [Concepts (for those comfortable with HTML/CSS/JS)](https://reactjs.org/docs/hello-world.html)
 
 ## Unity
 
