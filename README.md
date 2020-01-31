@@ -1,6 +1,14 @@
 # <img src="./img/logo.svg" width="40px" alt="SFU Surge logo" /> SFU Surge: Resource Hub
 
 This is a compilation of resources which are useful for learning technologies.
+___
+
+## Recommended Editors and IDEs
+
+* HTML/CSS/JavaScript, React:
+  * [Visual Studio Code](https://code.visualstudio.com/)
+* Java:
+  * [JetBrains IntelliJ IDEA](https://www.jetbrains.com/idea/)
 
 ## Git
 
