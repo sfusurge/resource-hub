@@ -10,6 +10,10 @@ ___
 * Java:
   * [JetBrains IntelliJ IDEA](https://www.jetbrains.com/idea/)
 
+
+## JavaScript
+* [Google Style Guide](https://google.github.io/styleguide/jsguide.html)
+
 ## Git
 
 * [Download Link](https://git-scm.com/downloads)
@@ -19,6 +23,9 @@ ___
 
 * [Official Documentation](https://reactjs.org/docs/getting-started.html)
 * [Concepts (for those comfortable with HTML/CSS/JS)](https://reactjs.org/docs/hello-world.html)
+
+## Redux
+* [A Cartoon Introduction to Redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6)
 
 ## Unity
 
