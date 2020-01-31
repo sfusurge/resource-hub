@@ -7,6 +7,10 @@ This is a compilation of resources which are useful for learning technologies.
 * [Download Link](https://git-scm.com/downloads)
 * [Beginner Tutorial](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 
+## React
+
+* [Official Documentation](https://reactjs.org/docs/getting-started.html)
+
 ## Unity
 
 * [Download and installation](https://docs.unity3d.com/Manual/GettingStartedInstallingHub.html)
