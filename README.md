@@ -23,6 +23,8 @@ ___
 
 * [Official Documentation](https://reactjs.org/docs/getting-started.html)
 * [Concepts (for those comfortable with HTML/CSS/JS)](https://reactjs.org/docs/hello-world.html)
+* [React Conf 2019](https://www.youtube.com/playlist?list=PLPxbbTqCLbGHPxZpw4xj_Wwg8-fdNxJRh)
+  * Talks by expert React devs about the state of the art in react. 
 
 ## Redux
 * [A Cartoon Introduction to Redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6)
